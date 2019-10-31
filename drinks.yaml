@@ -1,0 +1,53 @@
+---
+  drinks:
+    # - name: ""
+    #   slug: ""
+    #   ingredients:
+    - name: "Gin & Tonic"
+      slug: "gin_and_tonic"
+      ingredients:
+        gin: 50
+        tonic: 150
+    - name: "Rum & Coke"
+      slug: "rum_and_coke"
+      ingredients:
+        rum: 50
+        coke: 150
+    - name: "Tennessee Two Step"
+      slug: "tennessee_two_step"
+      ingredients:
+        gran_gala: 15
+        punt_e_mes: 15
+        tennessee_whisky: 45
+        lemon_juice: 22
+        seltzer: 30
+      additions:
+        angostura_bitters: "2 Dashes"
+        sugar: "1 pinch"
+    - name: "Tennessee Sour"
+      slug: "tennessee_sour"
+      ingredients:
+        tennessee_whisky: 60
+        lemon_juice: 30
+        sugar_syrup: 15
+      additions:
+        angostura_bitters: "1 Dash"
+        egg_white: 1
+    - name: "Old Fashioned"
+      slug: "old_fashioned"
+      ingredients:
+        bourbon: 50
+        sugar_syrup: 5
+      additions:
+        angostura_bitters: "2 Dashes"
+        orange_zest: 1
+    - name: "Citrus peach cooler"
+      slug: "citrus_peach_cooler"
+      ingredients:
+        cloudy_lemonade: 100
+        sparkling_water: 50
+        peach_necter: 50
+      additions:
+        lemons: 2
+        limes: 2
+        orange_zest: 1

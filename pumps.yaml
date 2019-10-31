@@ -1,0 +1,20 @@
+---
+  pumps:
+    - name: "Pump 1"
+      pin: 0 # 11
+      drink: "gin"
+    - name: "Pump 2"
+      pin: 1 # 12
+      drink: "tonic"
+    - name: "Pump 3"
+      pin: 2 # 13
+      drink: "rum"
+    - name: "Pump 4"
+      pin: 3 # 14
+      drink: "coke"
+    - name: "Pump 5"
+      pin: 4 # 16
+      drink: "tennessee_whisky"
+    - name: "Pump 6"
+      pin: 5 # 18
+      drink: "lemon_juice"

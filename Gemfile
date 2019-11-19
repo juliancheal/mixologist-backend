@@ -1,4 +1,5 @@
 source "https://rubygems.org"
 
 gem "rpi_gpio"
-gem "prettyprint"
+gem "kafka"
+gem "thwait"
